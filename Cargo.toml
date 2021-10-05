@@ -1,0 +1,12 @@
+[package]
+name = "tdx"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+description = "Intel Trusted Domain Extensions (TDX)"
+repository = "https://github.com/jinnnetwork/tdx"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
