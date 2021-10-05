@@ -1,7 +1,7 @@
 [package]
 name = "tdx"
 version = "0.0.0"
-edition = "2021"
+edition = "2018"
 license = "MIT"
 description = "Intel Trusted Domain Extensions (TDX)"
 repository = "https://github.com/jinnnetwork/tdx"
